@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1540" height="1020" viewBox="0 0 1540 1020" role="img" aria-labelledby="title desc">
+  <title id="title">Mogger Core — estudo de fontes Techno</title>
+  <desc id="desc">Comparação do conceito C com três fontes reais da categoria Techno do DaFont.</desc>
+  <rect width="1540" height="1020" fill="#F3F4F1"/>
+  <text x="64" y="72" font-family="Noto Sans, Arial, sans-serif" font-size="19" font-weight="800" letter-spacing="4" fill="#555B5F">MOGGER CORE  /  FONTE 02</text>
+  <text x="64" y="120" font-family="Noto Sans, Arial, sans-serif" font-size="36" font-weight="800" fill="#171A1D">Quatro fontes, mesma assinatura</text>
+  <text x="64" y="157" font-family="Noto Sans, Arial, sans-serif" font-size="18" fill="#555B5F">Mantive o bloco C e a paleta; agora variam as formas das letras.</text>
+
+  <g>
+    <rect x="42" y="195" width="350" height="760" rx="16" fill="#FFFFFF" stroke="#CFD2CE" stroke-width="2"/>
+    <text x="64" y="238" font-family="Noto Sans, Arial, sans-serif" font-size="16" font-weight="800" letter-spacing="1.2" fill="#65A900">01  /  BLOCO C</text>
+    <text x="64" y="269" font-family="Noto Sans, Arial, sans-serif" font-size="14" fill="#555B5F">Base escolhida: pesado e familiar</text>
+    <path d="M78 450h278M118 472h198" stroke="#171A1D" stroke-width="9" stroke-linecap="square"/>
+    <path d="M232 472h84" stroke="#B7FF00" stroke-width="9"/>
+    <path d="M64 550h306" stroke="#B7FF00" stroke-width="7"/>
+    <text x="217" y="670" text-anchor="middle" font-family="Noto Sans" font-size="47" font-weight="900" letter-spacing="-1.5" fill="#171A1D">MOGGER</text>
+    <text x="217" y="741" text-anchor="middle" font-family="Noto Sans" font-size="57" font-weight="900" letter-spacing="2" fill="#65A900">CORE</text>
+    <text x="217" y="825" text-anchor="middle" font-family="Noto Sans, Arial, sans-serif" font-size="14" fill="#555B5F">Atual: direto e robusto</text>
+  </g>
+
+  <g>
+    <rect x="422" y="195" width="350" height="760" rx="16" fill="#FFFFFF" stroke="#CFD2CE" stroke-width="2"/>
+    <text x="444" y="238" font-family="Noto Sans, Arial, sans-serif" font-size="16" font-weight="800" letter-spacing="1.2" fill="#65A900">02  /  ETHNOCENTRIC</text>
+    <text x="444" y="269" font-family="Noto Sans, Arial, sans-serif" font-size="14" fill="#555B5F">Angular, veloz, ficção científica</text>
+    <path d="M458 450h278M498 472h198" stroke="#171A1D" stroke-width="9" stroke-linecap="square"/>
+    <path d="M612 472h84" stroke="#B7FF00" stroke-width="9"/>
+    <path d="M444 550h306" stroke="#B7FF00" stroke-width="7"/>
+    <text x="597" y="670" text-anchor="middle" font-family="Ethnocentric" font-size="43" fill="#171A1D">MOGGER</text>
+    <text x="597" y="741" text-anchor="middle" font-family="Ethnocentric" font-size="52" fill="#65A900">CORE</text>
+    <text x="597" y="825" text-anchor="middle" font-family="Noto Sans, Arial, sans-serif" font-size="14" fill="#555B5F">Mais “robô de corrida”</text>
+  </g>
+
+  <g>
+    <rect x="802" y="195" width="350" height="760" rx="16" fill="#FFFFFF" stroke="#CFD2CE" stroke-width="2"/>
+    <text x="824" y="238" font-family="Noto Sans, Arial, sans-serif" font-size="16" font-weight="800" letter-spacing="1.2" fill="#65A900">03  /  GOOD TIMES</text>
+    <text x="824" y="269" font-family="Noto Sans, Arial, sans-serif" font-size="14" fill="#555B5F">Ampla, geométrica, com presença</text>
+    <path d="M838 450h278M878 472h198" stroke="#171A1D" stroke-width="9" stroke-linecap="square"/>
+    <path d="M992 472h84" stroke="#B7FF00" stroke-width="9"/>
+    <path d="M824 550h306" stroke="#B7FF00" stroke-width="7"/>
+    <text x="977" y="670" text-anchor="middle" font-family="Good Times" font-size="42" fill="#171A1D">MOGGER</text>
+    <text x="977" y="741" text-anchor="middle" font-family="Good Times" font-size="52" fill="#65A900">CORE</text>
+    <text x="977" y="825" text-anchor="middle" font-family="Noto Sans, Arial, sans-serif" font-size="14" fill="#555B5F">Mais “emblema de equipe”</text>
+  </g>
+
+  <g>
+    <rect x="1182" y="195" width="350" height="760" rx="16" fill="#FFFFFF" stroke="#CFD2CE" stroke-width="2"/>
+    <text x="1204" y="238" font-family="Noto Sans, Arial, sans-serif" font-size="16" font-weight="800" letter-spacing="1.2" fill="#65A900">04  /  NASALIZATION</text>
+    <text x="1204" y="269" font-family="Noto Sans, Arial, sans-serif" font-size="14" fill="#555B5F">Estendida, leve, aeroespacial</text>
+    <path d="M1218 450h278M1258 472h198" stroke="#171A1D" stroke-width="9" stroke-linecap="square"/>
+    <path d="M1372 472h84" stroke="#B7FF00" stroke-width="9"/>
+    <path d="M1204 550h306" stroke="#B7FF00" stroke-width="7"/>
+    <text x="1357" y="670" text-anchor="middle" font-family="Nasalization" font-size="47" fill="#171A1D">MOGGER</text>
+    <text x="1357" y="741" text-anchor="middle" font-family="Nasalization" font-size="59" fill="#65A900">CORE</text>
+    <text x="1357" y="825" text-anchor="middle" font-family="Noto Sans, Arial, sans-serif" font-size="14" fill="#555B5F">Mais tecnologia limpa</text>
+  </g>
+
+  <text x="64" y="993" font-family="Noto Sans, Arial, sans-serif" font-size="14" fill="#555B5F">Amostras de estudo, não arquivos finais. Após a escolha, ajusto espaçamento e converto as letras em curvas.</text>
+</svg>

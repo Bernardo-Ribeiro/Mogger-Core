@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 650" role="img" aria-labelledby="title desc">
+  <title id="title">Mascote Mogger Core</title>
+  <desc id="desc">Robô simpático com visor, antenas, circuitos e núcleo em forma de engrenagem.</desc>
+  <g stroke="#171A1D" stroke-width="15" stroke-linecap="round" stroke-linejoin="round">
+    <!-- antenas -->
+    <path d="M224 108 207 65M376 108l19-43" fill="none"/>
+    <circle cx="202" cy="53" r="20" fill="#B7FF00"/>
+    <circle cx="402" cy="53" r="20" fill="#B7FF00"/>
+    <!-- circuitos externos -->
+    <path d="M111 224H65v42M489 224h46v42M105 310H55v36M495 310h50v36" fill="none" stroke="#B7FF00" stroke-width="11"/>
+    <circle cx="65" cy="272" r="9" fill="#B7FF00" stroke="none"/>
+    <circle cx="535" cy="272" r="9" fill="#B7FF00" stroke="none"/>
+    <circle cx="55" cy="352" r="9" fill="#B7FF00" stroke="none"/>
+    <circle cx="545" cy="352" r="9" fill="#B7FF00" stroke="none"/>
+    <!-- cabeça -->
+    <path d="M128 168Q128 125 171 125H429Q472 125 472 168V315Q472 360 427 360H173Q128 360 128 315Z" fill="#171A1D"/>
+    <path d="M153 179Q153 150 182 150H418Q447 150 447 179V301Q447 335 413 335H187Q153 335 153 301Z" fill="#F5F7F2" stroke="none"/>
+    <!-- visor -->
+    <rect x="176" y="205" width="248" height="86" rx="42" fill="#171A1D" stroke="none"/>
+    <path d="M225 253q16-27 32 0M343 253q16-27 32 0" fill="none" stroke="#B7FF00" stroke-width="13"/>
+    <path d="M270 311h60" fill="none" stroke="#171A1D" stroke-width="8"/>
+    <!-- ombreiras -->
+    <path d="M130 373q-45 10-46 54v34h100v-45M470 373q45 10 46 54v34H416v-45" fill="#C7CDD1"/>
+    <!-- corpo -->
+    <path d="M187 360h226l34 42v103H153V402Z" fill="#171A1D"/>
+    <path d="M222 384h156l20 25v70H202v-70Z" fill="#F5F7F2" stroke="none"/>
+    <!-- núcleo/engrenagem simplificada -->
+    <path d="M289 400h22v15q9 2 16 7l11-9 16 16-9 11q5 8 7 17h15v22h-15q-2 9-7 17l9 11-16 16-11-9q-7 5-16 7v15h-22v-15q-9-2-16-7l-11 9-16-16 9-11q-5-8-7-17h-15v-22h15q2-9 7-17l-9-11 16-16 11 9q7-5 16-7Z" transform="translate(0 -9)" fill="#B7FF00" stroke="#171A1D" stroke-width="7"/>
+    <circle cx="300" cy="456" r="21" fill="#171A1D" stroke="none"/>
+    <circle cx="300" cy="456" r="8" fill="#F5F7F2" stroke="none"/>
+    <!-- pés -->
+    <path d="M180 495v26h-35v25h109v-25h-35v-26M420 495v26h35v25H346v-25h35v-26" fill="#171A1D"/>
+    <path d="M165 534h56M379 534h56" fill="none" stroke="#B7FF00" stroke-width="8"/>
+  </g>
+  <text x="300" y="617" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="48" letter-spacing="2" fill="#171A1D">MOGGER <tspan fill="#65A900">CORE</tspan></text>
+</svg>
