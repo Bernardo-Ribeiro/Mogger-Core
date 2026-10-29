@@ -1,0 +1,16 @@
+# Arquivos temporários do sistema e editores
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Saídas de compilação Arduino
+build/
+.pio/
+
+# Segredos e configurações locais
+.env
+.env.*
+!.env.example
