@@ -7,6 +7,7 @@ Este espaço reúne a identidade visual, os documentos da equipe e os arquivos d
 ## Estrutura
 
 ```text
+site/                    Portal web oficial em Frutiger Aero (Vite + React + GSAP)
 logo/                    Logotipos oficiais
 identidade/mascote/      Conceito e arquivos do mascote
 docs/equipe/             Informações e organização da equipe
